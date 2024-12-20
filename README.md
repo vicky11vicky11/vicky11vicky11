@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🔧 Skills:<br>🌍 Intrests: Java Full Stack Developer, React Developer, Java Developer<br>💻 Programming Languages: HTML, CSS, JavaScript, Java<br>🚀Technologies: Scss, TailwindCSS, ReactJS, MySQL<br>🛠️ Other Technologies: VS Coed, IntelliJ IDEA, Git<br><br>🌱 What I’m Learning:<br>👉I’m constantly improving my skills and learning new technologies.<br>⚓Right now, I’m focusing on: Java<br>🛠️ Advanced React and state management with Redux<br>🌐 Building RESTful APIs with Java<br>🗃️ Deepening my understanding of MySQL for efficient data handling</p>
+<p align="left">🔧 Skills:<br>🌍 Intrests: Java Full Stack Developer, React Developer, Java Developer<br>💻 Programming Languages: HTML, CSS, JavaScript, Java<br>🚀Technologies: Scss, TailwindCSS, ReactJS, MySQL, Servlets, JDBC, JSP<br>🛠️ Other Technologies: VS Code, IntelliJ IDEA, Git, Google Analytics, Google Tag Manager<br><br>🌱 What I’m Learning:<br>👉I’m constantly improving my skills and learning new technologies.<br>⚓Right now, I’m focusing on: Spring Framework<br>🛠️ Advanced React and state management with Redux<br>🌐 Building RESTful APIs with Java<br>🗃️ Deepening my understanding of MySQL for efficient data handling</p>
 
 ###
 
